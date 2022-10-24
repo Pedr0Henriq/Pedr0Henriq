@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Pedro Henrique
 - 👀 Computer Scientist, Federal University of Paraíba.
-- 🌱 Learning C
+- 🌱 Learning C and Python
 <div align="center">
   <a href="https://github.com/Pedr0Henriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedr0Henriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

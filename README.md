@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Pedro Henrique
 - 👀 Computer Scientist, Federal University of Paraíba.
-- 🌱 Learning C and Python
+- 🌱 Learning C, Python and Java
 <div align="center">
   <a href="https://github.com/Pedr0Henriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedr0Henriq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -8,6 +8,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
   
